@@ -12076,11 +12076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Shekhar\\MyDesktop\\Practice\\Dcokers\\MyApp\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Shekhar\\MyDesktop\\Practice\\Dcokers\\GitRepositryCICD\\ci-cd-program\\MyApp\\WebApp\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Shekhar\\MyDesktop\\Practice\\Dcokers\\MyApp\\WebApp\\WebApp\\WebApp.csproj",
+      "projectPath": "C:\\Shekhar\\MyDesktop\\Practice\\Dcokers\\GitRepositryCICD\\ci-cd-program\\MyApp\\WebApp\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\sparate\\.nuget\\packages\\",
-      "outputPath": "C:\\Shekhar\\MyDesktop\\Practice\\Dcokers\\MyApp\\WebApp\\WebApp\\obj\\",
+      "outputPath": "C:\\Shekhar\\MyDesktop\\Practice\\Dcokers\\GitRepositryCICD\\ci-cd-program\\MyApp\\WebApp\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
